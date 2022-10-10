@@ -1,0 +1,17 @@
+@import url('https://fonts.googleapis.com/css2?family=Montserrat:wght@300&family=Raleway:wght@300&family=Roboto+Condensed:wght@300&display=swap');
+section{
+    background-color: #fff1e6;
+    padding: 20px 20px 20px 20px;
+    width: 50%;
+    margin: 25%;
+}
+h1{
+    font-family: 'Montserrat', sans-serif;
+}
+.escrito_no_blog{
+    font-family: 'Raleway', sans-serif;
+}
+.data{
+    color: #0077b6;
+    font-family: 'Roboto Condensed', sans-serif;
+}
